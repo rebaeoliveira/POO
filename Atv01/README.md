@@ -2,8 +2,7 @@
 
 ## Notebook Atv01
 
->   Argumentos inválidos devem ser desconsiderados sem provocar a exibição de erros ou exceções com a função throws IOException.
->   As variáveis são inicializadas com o valor zero.
+>   Argumentos inválidos devem ser desconsiderados sem provocar a exibição de erros ou exceções com a função throws IOException. >   As variáveis são inicializadas com o valor zero.
 >   As variáveis de "a' até "e" recebem os valores.
 >   A variável "soma" soma todos os valores das variáveis "a" até "e".
 
