@@ -8,7 +8,7 @@
 >   A variável "soma" soma todos os valores das variáveis "a" até "e".
 
 > import java.util.Scanner;
-import java.io.IOException;
+> import java.io.IOException;
 
 public class Atv01 {
     public static void main(String[] args) throws IOException {
