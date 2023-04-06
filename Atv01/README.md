@@ -9,10 +9,10 @@
 
 > import java.util.Scanner;
 > import java.io.IOException;
-
-public class Atv01 {
-    public static void main(String[] args) throws IOException {
-        double a, b, c, d, e, soma = 0;
+> 
+> public class Atv01 {
+>   public static void main(String[] args) throws IOException {
+>       double a, b, c, d, e, soma = 0;
         Scanner s = new Scanner(System.in);
         System.out.println("Digite números inteiros ou reais: ");
         a = s.nextDouble();
