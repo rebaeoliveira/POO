@@ -12,17 +12,17 @@
 > 
 > public class Atv01 {
 >   public static void main(String[] args) throws IOException {
->       double a, b, c, d, e, soma = 0;
-        Scanner s = new Scanner(System.in);
-        System.out.println("Digite números inteiros ou reais: ");
-        a = s.nextDouble();
-        b = s.nextDouble();
-        c = s.nextDouble();
-        d = s.nextDouble();
-        e = s.nextDouble();
-        soma = a + b + c + d + e;
-        System.out.println("A soma dos números é: " + soma); // O valor da soma é exibido na tela usando o método System.out.println().
-    }
-} 
+>        double a, b, c, d, e, soma = 0;
+>        Scanner s = new Scanner(System.in);
+>        System.out.println("Digite números inteiros ou reais: ");
+>        a = s.nextDouble();
+>        b = s.nextDouble();
+>        c = s.nextDouble();
+>        d = s.nextDouble();
+>        e = s.nextDouble();
+>        soma = a + b + c + d + e;
+>        System.out.println("A soma dos números é: " + soma); // O valor da soma é exibido na tela usando o método System.out.println().
+>    }
+> } 
 
 <hr>
