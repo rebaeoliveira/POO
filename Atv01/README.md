@@ -1,6 +1,6 @@
-<hr>
-
 ## Notebook Atv01
+
+<hr>
 
 > Argumentos inválidos devem ser desconsiderados sem provocar a exibição de erros ou exceções com a função throws IOException.
 > As variáveis são inicializadas com o valor zero.
