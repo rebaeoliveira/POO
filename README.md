@@ -8,3 +8,6 @@
 
 # Notebook - Atv01
 + https://github.com/rebaeoliveira/poo/tree/main/Atv01
+
+# Notebook - Atv02
++ https://github.com/rebaeoliveira/poo/tree/main/Atv02
