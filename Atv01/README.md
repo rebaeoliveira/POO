@@ -1,5 +1,3 @@
-<hr>
-
 ## Notebook Atv01
 
 > Argumentos inválidos devem ser desconsiderados sem provocar a exibição de erros ou exceções com a função throws IOException.
@@ -23,6 +21,4 @@
 >        soma = a + b + c + d + e;
 >        System.out.println("A soma dos números é: " + soma); // O valor da soma é exibido na tela usando o método System.out.println().
 >    }
-> } 
-
-<hr>
+> }
