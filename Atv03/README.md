@@ -8,7 +8,7 @@
   - A média é calculada somando todas as notas e dividindo pela quantidade de notas fornecidas.
 
 > Inserir o código Java criado para a resolução da atividade. 
-  - - import javax.swing.JOptionPane;
+  - import javax.swing.JOptionPane;
   - public class Atv03 {
   - public static void main(String[] args) {
   - String prova1 = JOptionPane.showInputDialog("Digite a nota da 1ª prova: "); // Recebe a nota da 1ª prova.
