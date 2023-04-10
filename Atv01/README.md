@@ -9,7 +9,7 @@
   - A variável "soma" soma todos os valores das variáveis "a" até "e".
 
 > Inserir o código Java criado para a resolução da atividade. 
--import java.util.Scanner;
+  - import java.util.Scanner;
 import java.io.IOException;
 public class Atv01 {
 public static void main(String[] args) throws IOException {
