@@ -1,6 +1,6 @@
 ## Notebook Atv03
 
-## Esse código funcionou corretamente no Visual Studio Code, porém no Juýter Notebook informou erro X11.
+## Esse código funcionou corretamente no Visual Studio Code, porém no Jupyter Notebook informou erro X11.
 
 <hr>
 
