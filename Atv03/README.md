@@ -1,5 +1,7 @@
 ## Notebook Atv03
 
+## Esse código funcionou corretamente no Visual Studio Code, porém no Juýter Notebook informou erro X11.
+
 <hr>
 
 > Descrever os passos realizados para a resolução da atividade.
