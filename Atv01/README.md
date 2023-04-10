@@ -2,10 +2,10 @@
 
 <hr>
 
-> Argumentos inválidos devem ser desconsiderados sem provocar a exibição de erros ou exceções com a função throws IOException.
-> As variáveis são inicializadas com o valor zero.
-> As variáveis de "a' até "e" recebem os valores.
-> A variável "soma" soma todos os valores das variáveis "a" até "e".
+1. Argumentos inválidos devem ser desconsiderados sem provocar a exibição de erros ou exceções com a função throws IOException.
+2. As variáveis são inicializadas com o valor zero.
+3. As variáveis de "a' até "e" recebem os valores.
+4. A variável "soma" soma todos os valores das variáveis "a" até "e".
 
 > import java.util.Scanner;
 > import java.io.IOException;
